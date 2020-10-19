@@ -1,0 +1,25 @@
+<Admissions>
+
+<Admission slno="23">
+<name>John Carter</name>
+<day>25</day>
+<month>12</month>
+<year>2015</year>
+</Admission>
+
+<Admission slno="29">
+<name>Bob Marsha</name>
+<day>13</day>
+<month>1</month>
+<year>1999</year>
+</Admission>
+
+<Admission slno="35">
+<name>Clark Kent</name>
+<day>17</day>
+<month>6</month>
+<year>2005</year>
+</Admission>
+
+
+</Admissions>
