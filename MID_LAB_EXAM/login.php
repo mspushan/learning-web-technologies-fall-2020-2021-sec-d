@@ -2,7 +2,7 @@
 
 if(isset($_REQUEST['submit'])){
     
-    $myfile = fopen('../assets/registration.txt', 'p');
+    $myfile = fopen('..registration.txt', 'p');
     while ($data = fgets($myfile)) {
         $user_info = explode("|", $data);
         if($_REQUEST['id']==$user_info[2] and $_REQUEST['password']==$user_info[1]){
